@@ -51,5 +51,7 @@ No real authentication, no backend or database, no document upload, no real emai
 Team members and their role and contribution:
 
 Pooja M K| Prototype (Frontend and Logic)| Built the working ShareHub prototype: resource listings, eligibility checks, booking requests, approval and waitlist workflow, check-in and return with condition records, incident reporting, fair-use rules, notifications and audit history. Set up the GitHub repository and hosting.
+
 Pragathi S| Presentation| Prepared the project presentation and demo flow, and organised the project documentation for submission.
+
 Neha K R| Research| Researched the problem of underused institutional equipment and spaces, identified target users and owners, and gathered the evidence used to justify the solution.
